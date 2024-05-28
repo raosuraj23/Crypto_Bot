@@ -1,0 +1,7 @@
+/.venv
+/crypto_trading.db
+/fetch_data.py
+/fetch_data_v1.py
+/main.py
+/symbols.py
+/usdt_pairs.csv
