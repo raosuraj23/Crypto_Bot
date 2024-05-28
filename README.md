@@ -78,4 +78,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-Special thanks to Binance for providing access to their public API and supporting cryptocurrency trading development efforts.3
+Special thanks to Binance for providing access to their public API and supporting cryptocurrency trading development efforts.
